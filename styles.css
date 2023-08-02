@@ -1,0 +1,8 @@
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    /* sets whether flex-items are forced onto one line or 
+    can span unto multiple lines. */
+    flex-wrap: wrap;
+}
